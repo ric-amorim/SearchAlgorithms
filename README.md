@@ -2,8 +2,6 @@
     
    (This project was made for the artificial intelligence curricular unit)
     
-## About the project
-    
 
 ## How to Run
    1- compile the files (javac *.java)<br />
